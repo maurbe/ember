@@ -7,7 +7,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -82,14 +81,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Mauro Bernardini - mauro.bernardini@uzh.ch
 
 
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/maurbe/ember.svg?style=flat-square&logo=appveyor
-[contributors-url]: https://github.com/maurbe/ember/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
