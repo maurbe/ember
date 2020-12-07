@@ -1,4 +1,3 @@
-# ember
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -17,7 +16,6 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -35,7 +33,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -72,20 +69,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
    python train.py
    ```
 
-
-<!-- ROADMAP -->
 ## Issues
 
 See the [open issues](https://github.com/maurbe/ember/issues) for a list of proposed features (and known issues).
 
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-<!-- CONTACT -->
 ## Contact
 
 Mauro Bernardini - mauro.bernardini@uzh.ch
@@ -103,7 +94,7 @@ Mauro Bernardini - mauro.bernardini@uzh.ch
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/maurbe/ember.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt

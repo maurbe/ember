@@ -178,15 +178,15 @@ class cWGAN():
                 generator_loss = self.distributed_generator_train_step(I)
                 critic_loss = self.distributed_critic_train_step(I)
 
-            if epoch % 10 == 0:
+            if epoch % 1000 == 0:
                 self.gen.save('checkpoints/g_{0:06d}.h5'.format(epoch))
                 self.cri.save('checkpoints/c_{0:06d}.h5'.format(epoch))
 
-            if epoch % 5 == 0:
+            if epoch % 100 == 0:
                 f = open('metrics.txt', 'a')
                 f.write('{0:}\t{1:}\t{2:}\n'.format(epoch, generator_loss, critic_loss))
                 f.close()
 
-            if epoch % 1 == 0:
+            if epoch % 100 == 0:
                 plot_tiles_gas(self.gen, self.x_fix, self.y_fix_d, epoch)
 
