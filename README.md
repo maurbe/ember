@@ -8,7 +8,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![uzh][uzh-shield]][uzh-url]
+[![arXiv][arXiv-shield]][arXiv-url]
 
 
 
@@ -72,6 +73,8 @@ Mauro Bernardini - mauro.bernardini@uzh.ch
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/maurbe/ember.svg?style=for-the-badge&
 [license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[uzh-shield]: https://img.shields.io/badge/-contact.svg?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/8/89/Universität_Zürich_logo.svg&colorB=555
+[uzh-url]: https://www.phonebook.uzh.ch/?ID=1903901
+[arXiv-shield]: https://img.shields.io/badge/-arXiv-black.svg?style=for-the-badge&logo=arXiv&colorB=555
+[arXiv-url]: https://google.com/
 [product-screenshot]: images/screenshot.png
