@@ -64,9 +64,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Mauro Bernardini - mauro.bernardini@uzh.ch
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -74,7 +71,7 @@ Mauro Bernardini - mauro.bernardini@uzh.ch
 [license-shield]: https://img.shields.io/github/license/maurbe/ember.svg?style=for-the-badge&
 [license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
 [uzh-shield]: https://img.shields.io/badge/-contact-black.svg?style=for-the-badge&colorB=555
-[uzh-url]: https://www.phonebook.uzh.ch/?ID=1903901
+[uzh-url]: mauro.bernardini@uzh.ch
 [arXiv-shield]: https://img.shields.io/badge/-arXiv-black.svg?style=for-the-badge&logo=arXiv&colorB=555
 [arXiv-url]: https://google.com/
 [product-screenshot]: images/screenshot.png
