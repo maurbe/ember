@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/maurbe/ember.svg?style=for-the-badge
-[license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
+[license-url]: https://github.com/maurbe/ember/LICENSE.txt
 [uzh-shield]: https://img.shields.io/badge/-contact-black.svg?style=for-the-badge&colorB=555
 [uzh-url]: mauro.bernardini@uzh.ch
 [arXiv-shield]: https://img.shields.io/badge/-arXiv-black.svg?style=for-the-badge&logo=arXiv&colorB=555
