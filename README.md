@@ -68,7 +68,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/maurbe/ember?color=%23827717&style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/maurbe/ember?color=%EF6C00&style=for-the-badge
 [license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
 [uzh-shield]: https://img.shields.io/badge/-contact-black.svg?style=for-the-badge&colorB=555
 [uzh-url]: mauro.bernardini@uzh.ch
