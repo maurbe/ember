@@ -43,6 +43,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing
 
+### Networks
+Pretrained networks can be found at: [Google Drive] (https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing)
+
 ### Prerequisites and Usage
 
 1. Clone the repo
