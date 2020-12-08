@@ -30,21 +30,14 @@
 
 
 ## About The Project
+This repository provides the network implementation and training routines for the paper (...).
+The code is written using the Tensorflow2 API, is easy to use and supports parallel training on multiple GPUs.
+Simulations are part of the [FIRE project](https://fire.northwestern.edu).
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Link to the FIRE webpage.
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing
 
 ### Networks
-Pretrained networks and prediction maps can be found at: [Google Drive] (https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing)
+Pretrained networks and prediction maps can be found at [Google Drive](https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing)
+
 
 ### Prerequisites and Usage
 
