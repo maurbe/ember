@@ -15,9 +15,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/banner.png"
+    <img src="src/banner.png">
   </a>
-  </p>
 </p>
 
 
