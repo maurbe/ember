@@ -80,7 +80,7 @@ def generator():
     g = Conv2D(filters=1, kernel_size=3, padding='same', activation='relu')(g1)
 
     unet = Model(inputs=uin,
-                 outputs=[g, o2, o3, o4, o5, o6, o7, obn], name='wgan')
+                 outputs=[g, o2, o3, o4, o5, o6, o7, obn], name='generator')
     return unet
 
 
