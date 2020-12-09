@@ -28,7 +28,7 @@ Simulations are part of the [FIRE project](https://fire.northwestern.edu).
 
 
 ### Networks
-Pretrained networks and prediction maps can be found at [Google Drive](https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing)
+Pretrained networks and prediction maps can be found at [Google Drive](https://drive.google.com/drive/folders/10_7Y3xjwHeZFdX6Fm5luhl-lMkVKH63k?usp=sharing).
 
 
 ### Prerequisites and Usage
