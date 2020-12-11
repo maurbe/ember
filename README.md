@@ -56,7 +56,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/maurbe/ember?color=607D8B&style=for-the-badge
-[license-url]: https://github.com/maurbe/ember/blob/master/src/LICENSE.txt
+[license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
 [arXiv-shield]: https://img.shields.io/badge/-arXiv-black.svg?style=for-the-badge&logo=arXiv&colorB=555
 [arXiv-url]: https://google.com/
 [product-screenshot]: images/screenshot.png
