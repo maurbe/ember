@@ -72,9 +72,7 @@ class cWGAN():
 
 
     def losses_init(self):
-        """
-        UNDER CONSTRUCTION...
-        """
+        
         with self.strategy.scope():
 
             def generator_aloss(c_fake):
