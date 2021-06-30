@@ -39,7 +39,7 @@ Pretrained networks and prediction maps can be found at [Google Drive](https://d
    ```
 3. Install dependencies
    ```sh
-   pip install numpy, matplotlib, tensorflow, tensorflow-gpu
+   pip install numpy, matplotlib, tensorflow-gpu
    ```
 4. Set the datapaths in `module.py`
 5. Train the network
