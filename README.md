@@ -46,4 +46,4 @@ Note that the you may need to modify the code for your specific project applicat
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
