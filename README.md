@@ -32,7 +32,7 @@ Pretrained networks and prediction maps can be found at [Google Drive](https://d
 
 
 ### Prerequisites and Usage
-Note that the you may need to modify the code for your specific project.
+Note that the you may need to modify the code for your specific project application.
 
 1. Clone the repo
    ```sh
