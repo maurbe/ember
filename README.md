@@ -7,10 +7,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][license-url]
-[![arXiv][arXiv-shield]][arXiv-url]
-
-
 
 <br />
 <p align="center">
@@ -51,13 +47,3 @@ Note that the you may need to modify the code for your specific project applicat
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/maurbe/ember?color=607D8B&style=for-the-badge
-[license-url]: https://github.com/maurbe/ember/blob/master/LICENSE.txt
-[arXiv-shield]: https://img.shields.io/badge/-arXiv-black.svg?style=for-the-badge&logo=arXiv&colorB=555
-[arXiv-url]: https://google.com/
-[product-screenshot]: images/screenshot.png
