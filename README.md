@@ -44,7 +44,7 @@ Note that the you may need to modify the code for your specific project applicat
    python train.py
    ```
 
-### If you make use of the project in any part, please cite
+If you make use of the project in any part, please cite
 ```sh
 @article{10.1093/mnras/stab3088,
     author = {Bernardini, M and Feldmann, R and Anglés-Alcázar, D and Boylan-Kolchin, M and Bullock, J and Mayer, L and Stadel, J},
