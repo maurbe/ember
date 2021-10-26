@@ -18,7 +18,7 @@
 
 
 ## About The Project
-This repository provides the network implementation and training routines for the paper (...).
+This repository provides the network implementation and training routines for the paper "From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning".
 The code is written using the Tensorflow2 API, is easy to use and supports parallel training on multiple GPUs.
 Simulations are part of the [FIRE project](https://fire.northwestern.edu).
 
