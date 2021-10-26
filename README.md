@@ -10,15 +10,13 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="src/banner.png">
-  </a>
 </p>
 
 
 
 ## About The Project
-This repository provides the network implementation and training routines for the paper (...).
+This repository provides the network implementation and training routines for the paper "From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning".
 The code is written using the Tensorflow2 API, is easy to use and supports parallel training on multiple GPUs.
 Simulations are part of the [FIRE project](https://fire.northwestern.edu).
 
@@ -43,6 +41,20 @@ Note that the you may need to modify the code for your specific project applicat
    ```sh
    python train.py
    ```
+
+If you make use of the project in any way, please cite
+```sh
+@article{10.1093/mnras/stab3088,
+    author = {Bernardini, M and Feldmann, R and Anglés-Alcázar, D and Boylan-Kolchin, M and Bullock, J and Mayer, L and Stadel, J},
+    title = "{From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning}",
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    year = {2021},
+    month = {10},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stab3088},
+    url = {https://doi.org/10.1093/mnras/stab3088}
+}
+```
 
 ## License
 
