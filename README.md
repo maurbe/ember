@@ -10,7 +10,7 @@
 
 <br />
 <p align="center">
-    <img src="src/banner.png">
+    <img src="src/banner_small.png">
 </p>
 
 
