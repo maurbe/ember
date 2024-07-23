@@ -45,7 +45,7 @@ Note that the you may need to modify the code for your specific project applicat
 If you make use of the project in any way, please cite
 ```sh
 @article{10.1093/mnras/stab3088,
-    author = {Bernardini, M and Feldmann, R and Anglés-Alcázar, D and Boylan-Kolchin, M and Bullock, J and Mayer, L and Stadel, J},
+    author = {Bernardini, Mauro and Feldmann, Robert and Anglés-Alcázar, Daniel and Boylan-Kolchin, Mike and Bullock, James and Mayer, Lucio and Stadel, Joachim},
     title = "{From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning}",
     journal = {Monthly Notices of the Royal Astronomical Society},
     year = {2022},
